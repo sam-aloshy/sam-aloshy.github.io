@@ -9,7 +9,7 @@ body {
   position: relative;
   width: 15%;
   line-height: 1.2em;
-  margin: 0 5%;
+  margin: 5% 5%;
 }
 
 @-webkit-keyframes noise-anim {
